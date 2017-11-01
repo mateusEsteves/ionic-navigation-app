@@ -1,4 +1,4 @@
-Este é um aplicativo criado com o IONIC 2 por motivos de aprendizado.
+Este é um aplicativo criado com o IONIC 3 por motivos de aprendizado.
 
 Referências
 
